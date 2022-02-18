@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Gabriel Stanimirov Nikolov</h1>
 <h3 align="center">A passionate developer from Bulgaria</h3>
-<p>Hard work and perseverance, this is the strength with the help of which a person becomes the greatest in every endeavor!</p>
+<p><strong>Hard work and perseverance, this is the strength with the help of which a person becomes the greatest in every endeavor!</strong></p>
 
 - 🌱 I’m currently learning **C#, Java, Js, Python**
 
