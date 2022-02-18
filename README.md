@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**UrbanBlackPrince33/UrbanBlackPrince33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">Hi 👋, I'm Gabriel Stanimirov Nikolov</h1>
 <h3 align="center">A passionate developer from Bulgaria</h3>
