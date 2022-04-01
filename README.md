@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer from Bulgaria</h3>
 <h3 align="center"><strong>(Hard work and perseverance, this is the strength with the help of which a person becomes the greatest in every endeavor!)</strong></h3>
 
-- 🌱 I’m currently learning ... Everything**
+- 🌱 I’m currently learning ... Everything
 
 - 💬 Ask me about ... Anythink
 
